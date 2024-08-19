@@ -1,7 +1,5 @@
 /**
- * v0 by Vercel.
- * @see https://v0.dev/t/cohwwODQnT0
- * Documentation: https://v0.dev/docs#integrating-generated-code-into-your-nextjs-app
+ * By: Tushar Vishwakarma
  */
 import { Breadcrumb, BreadcrumbList, BreadcrumbItem, BreadcrumbLink, BreadcrumbSeparator, BreadcrumbPage } from "@/components/ui/breadcrumb"
 import Link from "next/link"
